@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-CIPHER = ("A8d3lR4mGEW#E@n#G7KlYksk239")
+CIPHER = ("Tr3v0rC2R0x@nd1s@w350m3#TrevorForget")
 
 
 import random
